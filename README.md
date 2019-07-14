@@ -3,5 +3,6 @@
 * 2 Configurable Params: DATA_WIDTH & num_to_read
 
 ## Timing Diagram
+![](2.jpg)
 ![](0.png)
 ![](1.png)
